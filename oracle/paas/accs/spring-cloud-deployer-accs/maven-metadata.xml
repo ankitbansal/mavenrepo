@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>oracle.paas.accs</groupId>
+  <artifactId>spring-cloud-deployer-accs</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171116123731</lastUpdated>
+  </versioning>
+</metadata>
